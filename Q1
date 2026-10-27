@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Tim Berners-Lee</title>
+        <style>
+            h1, p {
+                color: #444444;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>Tim Berners-Lee</h1>
+
+        <p>Tim Berners-Lee is the inventor of the World Wide Web. He created it in 1989 to make sharing information easier.</p>
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Tim_Berners-Lee.jpg"
+             alt="Tim Berners-Lee, inventor of the World Wide Web">
+    </body>
+</html>
